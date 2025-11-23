@@ -1,4 +1,4 @@
-# Programming_in_java_prjth
+# Programming_in_java_prj-th
 Campus Course &amp; Records Manager (CCRM)
 ## Project Overview
 
