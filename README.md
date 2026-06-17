@@ -281,8 +281,8 @@ This project is developed for educational purposes and demonstrates Java program
 
 ---
 
-**Author**: Harshita Swarnkar
-**Course**: Programming in Java 
-**Date**: September 2025  
+**Author**: Harshita Swarnkar </br>
+**Course**: Programming in Java </br>
+**Date**: September 2025  </br>
 **Version**: 1.0
 
